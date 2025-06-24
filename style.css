@@ -12,6 +12,17 @@ header {
   margin-bottom: 20px;
 }
 
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.hero .description {
+  text-align: left;
+}
+
 header h1 {
   margin: 0;
 }
