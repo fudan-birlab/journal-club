@@ -17,6 +17,9 @@ header {
   align-items: center;
   justify-content: flex-start;
   gap: 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1rem;
 }
 
 .hero .description {
